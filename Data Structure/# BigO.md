@@ -80,6 +80,7 @@ n^2 grow fast, n^2 is dominant term, n is non-dominant, so we drop n, still O(n^
 ---
 
 **O(1)**
+>Constant
 **constant time, no matter how many times it has**
 >Most effecient 
 
