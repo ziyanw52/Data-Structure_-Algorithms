@@ -81,8 +81,10 @@ n^2 grow fast, n^2 is dominant term, n is non-dominant, so we drop n, still O(n^
 
 **O(1)**
 >Constant
-**constant time, no matter how many times it has**
->Most effecient 
+
+>**constant time, no matter how many times it has**
+
+*Most effecient* 
 
 ```java
 public static int addItems(int n){
@@ -95,7 +97,9 @@ public static int addItems(int n){
 **O(logn)**
 
 >very effecient
+
 *将一个数组不断地对半切开，直到找到要找的那个数 Divide and conquer*
+
 *log2^8 = 3*
 
 ---
