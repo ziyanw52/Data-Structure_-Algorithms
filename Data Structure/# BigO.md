@@ -11,6 +11,7 @@
 **O(n)**
 
 In the following code, n is 10, there are 10 operations in for loop
+>Proportional
 
 ```java
 public static void printItems(int n){
@@ -40,6 +41,7 @@ public static void printItems(int n){
 **O(n^2)**
 
 pass ten and had 100 lines, n*n=n^2
+>Loop within a Loop
 
 ```java
 public static void printItems(int n){
@@ -92,7 +94,7 @@ public static int addItems(int n){
 **O(logn)**
 
 >very effecient
-*将一个数组不断地对半切开，直到找到要找的那个数*
+*将一个数组不断地对半切开，直到找到要找的那个数 Divide and conquer*
 *log2^8 = 3*
 
 ---
