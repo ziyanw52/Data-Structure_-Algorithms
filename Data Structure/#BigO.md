@@ -1,7 +1,6 @@
 ## Big O
 
 > Time Complexity
-+
 > Space Complexity
 
 **Ω θ O**
